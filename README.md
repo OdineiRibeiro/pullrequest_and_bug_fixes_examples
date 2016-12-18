@@ -23,3 +23,20 @@ This repository contains two templates to PR and Bug Fixes. Actually, I made thi
 *CARDS* :card_index:
   * [Adding validations to contact form](https://trello.com/abcdef)
 ```
+##Bug Fixes
+
+*BUGFIXES* :bug:
+  * creating module to wrap jQuery Validate;
+
+*CARDS* :card_index:
+  * [Adding validations to contact form](https://trello.com/abcdef)
+
+- Code :point_down:
+
+```
+*BUGFIXES* :bug:
+  * creating module to wrap jQuery Validate;
+
+*CARDS* :card_index:
+  * [Adding validations to contact form](https://trello.com/abcdef)
+```
